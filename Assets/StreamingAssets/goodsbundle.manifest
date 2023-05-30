@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1302107162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20aa2c545ef4ca5b5c3128f4bc4562fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 019edb7ad1c3ad46a6b73914d2d10ab4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/goodsBundle/Capsule.prefab
+- Assets/BundledAssets/goodsBundle/Cylinder.prefab
+- Assets/BundledAssets/goodsBundle/Cube.prefab
+- Assets/BundledAssets/goodsBundle/redcube.prefab
+- Assets/BundledAssets/goodsBundle/fox1 1.prefab
+Dependencies: []
